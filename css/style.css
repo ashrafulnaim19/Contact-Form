@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+background-color: #FAFAFA;
+}
+header h2{
+
+text-align: center;
+
+padding: 50px;
+
+font-size: 30px;
+}
+.Contact_form{
+
+display: flex;
+
+width: 50%;
+
+margin: auto;
+}
+.get_touch{
+
+width: 60%;
+
+background-color: #fff;
+
+padding: 40px;
+
+box-shadow: -6px 11px 20px -15px;
+}
+.get_touch h2{
+
+margin-bottom: 20px;
+}
+form{
+
+}
+.flex{
+
+display: flex;
+
+justify-content: space-between;
+}
+form input{
+
+border: none;
+
+border: 1px solid #c9c7c7;
+
+padding: 10px 5px;
+
+margin-bottom: 10px;
+
+width: 100%;
+
+border-radius: 4px;
+}
+.flex div{
+    
+width: 47%;
+}
+.contact_us{
+
+width: 40%;
+
+background-color: #3D89F8;
+
+padding: 40px;
+
+color: #ffff;
+}
+form textarea{
+
+border: none;
+
+border: 1px solid #c9c7c7;
+
+padding: 10px 5px;
+
+margin-bottom: 10px;
+
+width: 100%;
+
+border-radius: 4px;
+}
+.contact_us h2{
+
+margin-bottom: 35px;
+}
+.submit{
+    
+width: 35%;
+    
+padding: 10px;
+    
+background: transparent;
+    
+background-color: #3D89F8;
+    
+color: #ffff;
+    
+cursor: grab;
+}
+.contact_info{}
+.contact_info div{
+
+display: flex;
+}
+.contact_info a{
+
+width: 20%;
+
+margin-bottom: 50px;
+
+font-size: 20px;
+
+color: #ffff;
+}
+.contact_info p{
+
+width: 80%;
+
+margin-bottom: 30px;
+}
+.contact_info b{
+    
+}
